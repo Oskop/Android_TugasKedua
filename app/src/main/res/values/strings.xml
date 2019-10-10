@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_TugasKedua</string>
+    <string name="txt_detail">Detail tiap pilihan</string>
+    <string name="txt_title">Nama Pilihan</string>
+</resources>
